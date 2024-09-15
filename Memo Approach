@@ -1,0 +1,5 @@
+https://leetcode.com/problems/maximum-multiplication-score/submissions/1390733355/
+
+Follow the above code writing. Do not calculate the answer side-wise and sending as function argument.
+Store the current answer in current function and lastly return 0 or true or flase or IINT_MAX or INT_MIN like value .
+Recall the graphical problme happen when you do not follow above code style.
